@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(143, 202, 244);
+}
+
+.calculator{
+
+    align-items: center;
+    align-self: ;
+    display: flex;
+
+}
